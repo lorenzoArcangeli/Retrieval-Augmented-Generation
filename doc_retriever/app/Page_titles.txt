@@ -1,0 +1,507 @@
+11.0.00
+11.0 Caratteristiche Tecniche
+6.2.00
+6.2 Caratteristiche Tecniche
+6.3.00
+6.4.00
+6.4 Caratteristiche Tecniche
+6.5.00
+6.6.00
+6.7.00
+6.7 Caratteristiche Tecniche
+770
+8.0.00
+8.1.00
+8.2.00
+8.2 Caratteristiche Tecniche
+8.3.00
+ABBUONI
+ACCISE Parametri
+ACCISE Webservices
+ACCONTO IVA
+ACQ SM
+ACQ VEND PROVVISORI
+AFFRANCAMENTO CESPITI
+AGG ABI CAB
+ALLESTIMENTI
+ALLINEA VERSIONE
+ANAGR ARTICOLI
+ANALISILAV
+ANA AGENTI
+ANA ART
+ANA AZIENDE
+ANA CLI FOR
+ANA CLI FOR RICERCA
+ANA CLI FOR VATCHECK
+ARTICOLI INTERMEDI - CONTO LAVORO DI FASE
+AUTOM DATE CONSEGNA
+AZIENDA DATI
+Accise
+Accise - Bilancio Annuo
+Acconti
+Acconti Caparre
+Acquisizione documenti
+ActiveDoc
+Agenti documento
+Aiuto
+Amministrazione
+Anagrafiche
+Analytics
+Analytics63
+Anticipi Caparre
+Anticipi Fatture
+Anticipi e Caparre
+Archivio
+Assicurazione Crediti
+BANCHE
+BANCHE AZIENDA
+BATCH
+BATCH Contabili
+BILANCIO
+BILANCIO CONSOLIDATO
+BILANCIO ESERCIZIO
+BILANCIO EXTRA
+BILANCIO RICLASS
+BLACK LIST
+BOLLA DOGANALE
+BOLLETTAZIONE PER QTA PRODOTTA
+BOLLI FATTURE
+BPM
+BUDGET RICLASS
+Base
+Blocco Fabbisogni
+Bolle Doganali
+Budget
+CARICO MACCHINE
+CASH FLOW
+CASH FLOW NEW
+CASH FLOW NEW COPY
+CAT FISC
+CAT MERC
+CAT MERC EXCEL
+CAUS CONT
+CESPITI
+CESSIONI
+CHIUSURE ESERCIZIO
+CIG CUP
+CIRCUITO BANCARIO
+CL DDT
+CL FASE
+CL OF
+CL PREL
+CL SEMPL
+CODICI FISSI
+COMPENSAZIONE PARTITE
+COMPONENTI DI CARICO IN DISTINTA BASE
+CONDIZIONI PAGAMENTO
+CONDIZIONI PAGEMTNO
+CONF Trattenute Libro Soci
+CONTABILIZZAZIONE ENASARCO FIRR
+CONTO LAVORO
+CONTRATTI
+CONTRATTI FORNITORI
+CO AN
+CO AN IMPOSTAZIONI
+CO AN MODIFICHEMASSA
+CO AN MOVIMENTI
+CO AN MOVIMENTI FUNZIONAMENTO
+CO AN RIBALTAMENTI
+CO AN VARIAZIONE MASSA
+CU
+Caparre
+CaparreFor
+Caric Anag Art da excel
+Caricamento Listini da Excel
+Carichi di produzione
+Carichi di produzione/spedizione
+Carichi di spedizione
+Cataloghi Fornitore
+Cauzioni
+Chep
+Ciclo attivo e passivo
+Codici Iva
+Comandi SQL
+Componenti a Consumo
+Conferimenti
+Configurazioni di base ActiveDoc
+Connettore Essenzia-WMS
+Consuntivazione Ordini di Produzione
+Conteggio Trasporti
+Conto Deposito
+Conto Lavoro Attivo
+Conto Lavoro Semplificato
+Conto Lavoro da Ordine Fornitore
+Conto Visione
+Controllo scaduto
+Conversione Riclassificati
+Corrispettivi Touch
+Corrispettivi Veloci
+DATA MINING
+DDT CLIENTI
+DDT FORNITORI
+DEDUCIBILITA CESPITI
+DIFFERENZA CAMBI
+DIFFERENZA CAMBI AANUALE
+DIFFERENZA CAMBI ANNUALE
+DISTINTA CICLICA
+DOCUMENTI PDF
+DURC
+Distinte Basi Modificate
+Documenti Ext
+Documenti Ext Gestione Esclusioni
+Documenti Ext Importazione Documenti
+Documenti a prezzi Ivati
+Documenti esterni
+Documento Carico Scarico Magazzino
+EFFETTI ATT
+EFFETTI CASTELLETTO
+EFFETTI CESSIONI
+EFFETTI IEF
+EFFETTI LCR
+EFFETTI L AVVISO
+EFFETTI MANUALI
+EFFETTI PASS
+EFFETTI REG SCAD
+EFFETTI RICHIAMO
+EFFETTI ROLLBACK
+EFFETTI TOGLI SBF
+ENASARCO
+ENASARCO GESTIONE
+ENASARCO MATRICOLE
+ESERCIZI CHIUSURE APERTURE
+ESERCIZI CONTBILI
+ESSENZIA WS
+ESS SHORTCUTS
+ESTRATTO CONTO A PARTITE
+E MAIL
+E MAIL/FAX GESTIONE
+E MAIL GESTIONE
+E MAIL INVIO MULTIPLO
+Essenzia11
+Essenzia8
+FATTELE
+FATTELE CICLO ATTIVO
+FATTELE CICLO PASSIVO
+FATTELE IMPOSTAZIONI
+FATTURAZIONE ELETTRONICA
+FATTURE
+FATTURE ACCONTO
+FATTURE CLIENTI
+FATTURE DA RICEVERE
+FATTURE FORNITORI
+FATTURE PROFORMA
+FIDO
+FIDO GESTIONE
+FINANZIAMENTI
+FIRR
+FLUSSO ENASARCO
+FLUSSO FATTURE
+FONDO ASSISTENZA
+FSC
+FUR IFECAD
+FUR Setup Ambiente
+Fabbisogni
+Factoring
+Fatture Omaggi
+Funzionalità ActiveDoc
+GANTT
+GESTIONE BATCH
+GESTIONE CASSA
+GESTIONE CESPITI
+GESTIONE INTRA
+GESTIONE MAND REV
+GESTIONE RAPIDA DOCUMENTI
+GESTIONE SEQUENZA CICLI E CICLI ALTERNATIVI
+GIRI CONS
+Gestionale
+Gestione Carichi
+Gestione DAS Unionale
+Gestione Documenti Contabilità RSM
+Gestione EAD - Nuova Versione
+Gestione EDI
+Gestione Fascette
+Gestione Fascette - Nuova Versione RTL
+Gestione Lingue
+Gestione Movimenti in Valuta Estera
+Gestione Patentini presidi sanitari
+Gestione Variabili
+Gestione articoli Fantasma
+Gestione dell'EAD
+Gestione sequenza cicli e cicli alternativi
+Giri Consegna
+Giroconto
+HEAD CONT EX
+I-WMS
+IMPORT/EXPORT Documenti
+IMPORT EXPORT Documenti
+INCASSI SEPA
+INDENNITA SUPP
+INFRAGRUPPO
+INSERIMENTO MODIFICA AUTOMATICA CESPITI
+INSOLUTI
+INTENTO
+INTERESSI MORA
+INTERFACCIA BCP
+INTERFACCIA DOCFINANCE
+INTERFACCIA ESS 3CAD
+INTERFACCIA ESS 4SEASON
+INTERFACCIA ESS ASTERIKS
+INTERFACCIA ESS DOC F
+INTERFACCIA ESS LINCE
+INTERFACCIA ESS QUARTA
+INTERROGA PARTITE
+INTRA
+INTRA MANUALE
+INTRA OPERATIVITA
+INVIO AUTOMATICO DOCUMENTI
+IVA AGE VIAGGI ART74TER
+IVA AGRICOLA
+IVA ATT CONNESSE ART34
+IVA ATT SEPARATE
+IVA CASSA
+IVA DIFFERITA
+IVA EDITORIA
+IVA REGIME OSS
+IWT Interscambio
+IWine
+ImpExpExcel
+Imp Exp Documenti Trk
+Imp Exp documenti Trk
+Import Export Doc
+Importazioni contabili
+Imposta Monofase RSM
+Impostazioni
+Impostazioni Applicativo
+Impostazioni Generali
+Impostazioni Locali
+Incassi automatici
+IndiciRotazione
+Installazione ECR Server
+Installazione Qualiware
+Interfacce Essenzia Altri Programmi
+Interfaccia Essenzia e Adjed - Archiviazione Documentale
+Interfaccia Essenzia e MS Exchange
+Interfaccia Essenzia e QualiWare
+Interfaccia Essenzia e Sma1
+Invio / Ricevimento merce in conto lavoro
+Iva
+LIBRO GIORNALE
+LIBRO GIORNALE NEW
+LIBRO INVENTARI
+LIPE
+LIPE Credito Iva
+LIPE Impostazioni
+LIQUIDAZIONE GRUPPO IVA
+LIQUIDAZIONE IVA
+LOGI Allegati
+LOGI Anag Art
+LOGI Anag Art Distinte Basi
+LOGI Art 62
+LOGI Art KIT
+LOGI Bolle Inventariali
+LOGI CALC LISTINO COSTI
+LOGI CICLO ATTIVO
+LOGI CICLO PASSIVO
+LOGI CONAI
+LOGI Campi Custom
+LOGI Canvass
+LOGI Causali Serie Doc Commerciali
+LOGI Causali Serie Magazzino
+LOGI Chiusure Magazzino
+LOGI Costi Impostazione
+LOGI Costi Produzione
+LOGI Costi Storici
+LOGI Dist Base Mod
+LOGI Fidelity
+LOGI GESTIONE COSTI
+LOGI ITER
+LOGI MONITORARRIVI
+LOGI NOTE DOC
+LOGI Premi
+LOGI Provvigioni
+LOGI RAEE
+LOGI Recupero Numeri
+LOGI Spese
+LOGI Stampe inventario
+LOG ESSENZIA
+Liste produzione
+Listini
+Listini e Sconti
+Locazioni Variabili
+Lotti
+MACROBOLLE
+MAIL FIRMA
+MAND INFORMATICO
+MAND REV
+MEMORIZZAZIONE FINESTRE
+MENU MRP
+MODULI OPZ
+MOVIMENTI EXTRACONTABILI
+MRP
+MRP COMMESSA
+MVV Elettronico
+Magazzino
+Manuale Importazioni
+Manuale uso
+Matricole
+Miglior Fornitore
+Mobile
+Mobile/Essenzia centroservizisud/gestione punto vendita
+Modulo I Wine Label
+Monitor Vendite
+Movimenti Contabili
+NOTE VARIAZIONI CLIENTI
+NOTE VARIAZIONI CLIENTI RESI
+NOTE VARIAZIONI EMESSE
+NOTE VARIAZIONI FORNITORI
+NOTULE
+NUM MOBILI
+Numero Mobili
+OFFERTE CLIENTI
+OFFERTE FORNITORI
+OPERAZIONI MASSA
+OPERAZIONI VALUTA DIVISA
+OPERAZIONI VALUTA ESTERA
+ORDINI CLIENTI
+ORDINI FORNITORI
+ORDINI PRELIEVO
+ORD PAG
+Officina
+Officina Anag macchinari
+Officina Commesse
+Officina Garanzie
+Officina impostazioni
+Ordini di Produzione
+Ordini di Produzione - Ordini di Produzione
+Ordini di produzione
+Osservatorio Economico
+PAGAMENTI
+PAGAMENTI SEPA
+PAGHE IMPORTAZIONE
+PAGOPA
+PARAMS DOC
+PARTITE
+PARTITE GESTIONE
+PERIODI CONT
+PERIODI IVA
+PIANI PRODUZIONE
+PIAN OC
+PICKING
+PKL
+PKLIST
+PLAFOND
+PLUSVALENZA MINUSVALENZA AUTOMATICA
+POLIVALENTE
+PRELCOMM
+PREVISIONE PRODUZIONE
+PREVISIONE VENDITA
+PREVISTI
+PRIMA NOTA
+PRIMA NOTA REGISTRAZIONI AUTOMATICHE
+PROG Capitolati
+PROG Consuntivi
+PROG Progetti
+PROTOCOLLATURA ORD
+PROVVIGIONI
+PROVVIGIONI ACCONTI
+PROVVIGIONI CONTAB
+PROVVIGIONI FATTURE
+PROVV GESTIONE
+Packing List
+Pagina principale
+Pianificazione Ordini Clienti
+Piano dei Conti
+Problemi Comuni ActiveDoc
+Produzione
+Progetti
+Promozioni
+Proposte Sottoscorta
+QUADRO VT
+RATEI RISCONTI
+REGISTRAZIONE AMMORTAMENTO CESPITI
+REGISTRI IVA
+RESI CLIENTE E NOTE VARIAZIONI EMESSE
+RESI FORNITORI
+REVERSE CHARGE
+RICHIESTE ACQ
+RICLASSIFICATI
+RICLASSIFICATI COGECOAN
+RIF CONT
+RIT ACC
+RIT ACC ATTIVE
+RIT ACC GESTIONE
+RIT ACC PRO FORMA
+RIT ACC RIL AUTOM
+RIVALUTAZIONE CESPITI
+Registri Telematici
+Rilavorazioni
+SCADENZE EXTRACONTABILI
+SCADENZIARIO
+SCHEDA COSTI
+SCRIPT
+SERVIZI BATCH
+SOLLECITI
+SOSPENSIONE CESPITI
+SOSTITUTIVA
+SPESO DETT
+SPHAERA
+SPLIT PAYMENT
+SPLIT PAYMENT PASSIVO
+SP COLLI
+STAMPE ENASARCO
+STAT IVA
+SUPERAMMORTAMENTO 2016
+San Marino
+Scheda Trasporto 3 1
+Schede Frizzanti/Spumanti
+Sconti
+ScontoImportoDoc
+Sconto Finanziario
+Scopo
+Spunta Colli
+Stampe-Interrogazioni
+Stampe di Magazzino
+Stat ciclo attivo
+Stat ciclo passivo
+Statistiche-Interrogazioni
+Storico Consumi
+Storno Caparre Acconti
+Suggerimenti di configurazione ActiveDoc
+TABELLE COMMERCIALI
+TABELLE COMM CLI E FOR
+TABELLE CONTABILI
+TERMINALINI RF
+TIPI SCADENZE
+TITOLI CREDITO
+TOOL AGGIORAMENTO
+TRIANGOLAZIONE FORNITORI
+TXT REPORTS
+Tabelle Contabili
+Tabelle generali
+Tabelle gestionale
+Terminalini RF Etichette Barcode Non SSCC
+Tracciato Anagrafiche
+Tracciato Movimenti IVA
+Tracciato documenti ext
+UTENTE
+Utility Virtual Spooler
+VALORIZZAZIONE FIFO
+VALORIZZAZIONE LIFO
+VAR
+VARIAZIONE MASSA CESPITI
+VARIAZIONE PARTITE
+VAR ERR
+VENTILAZIONE IVA
+VERSAMENTI VELOCI
+VETTORI
+Valorizzazione Ordini di Produzione
+Variabili
+Varianti Errate
+Vendite al banco
+Versamenti di Produzione / Imbottigliamento
+Vinificazione SIAN
+WINE Imbottigliamento
+WMS
+Wine
+Wine - Versamenti di Produzione / Imbottigliamento
+Wizard

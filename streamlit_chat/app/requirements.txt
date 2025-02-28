@@ -1,0 +1,7 @@
+streamlit
+langchain
+streamlit_chat
+python-dotenv
+langchain-openai
+openai
+qdrant-client

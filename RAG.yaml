@@ -1,0 +1,72 @@
+version: '3.9'
+
+    
+services:
+  streamlit_chat_qdrant_no_net:
+    build:
+      context: ./streamlit_chat
+      dockerfile: Dockerfile
+    image: streamlit_chat_qdrant_no_net
+    environment:
+      - OPEN_AOI_KEY=<>
+    ports: 
+      - 8501:8501
+    restart: always
+
+  doc_retriever_qdrant:
+    build:
+      context: ./doc_retriever
+      dockerfile: Dockerfile
+    image: doc_retriever_qdrant
+    environment:
+      - OPEN_AOI_KEY=<>
+      - USERNAME_APRA=essenzia
+      - PASSWORD=apraadmin
+      - INTERVAL=3600
+      - PDF_HOST=http://srvopenai.dev.apra.it:8080/
+    ports: 
+      - 8502:8502
+    volumes: 
+      - ./app/PDFs:/app/PDFs
+    extra_hosts:
+      - wikidoc.apra.it:93.51.133.109
+    restart: always
+
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    ports:
+      - 6333:6333
+      - 6334:6334
+    expose:
+      - 6333
+      - 6334
+      - 6335
+    configs:
+      - source: qdrant_config
+        target: /qdrant/config/production.yaml
+    volumes:
+      - ./qdrant-data:/qdrant/storage
+    restart: always
+  
+
+  apache:
+    image: httpd:latest
+    hostname: apache-app
+    container_name: apache-app
+    volumes:
+      - ./doc_retriever/app/PDFs/elab:/usr/local/apache2/htdocs
+    ports:      
+      - 8080:80
+    restart: always
+
+
+configs:
+  qdrant_config:
+    content: |
+      log_level: INFO  
+
+volumes:
+  qdrant-data:
+    driver: local #to create the storage in the local file system (the virtual one)

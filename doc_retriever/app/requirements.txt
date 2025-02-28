@@ -1,0 +1,10 @@
+requests
+langchain
+qdrant-client
+python-dotenv
+langchain-openai
+PyPDF2
+pdfminer.six
+pdfplumber
+scikit-learn
+pypdf

@@ -1,0 +1,23 @@
+version: '3.9'
+
+networks:
+  net:
+    driver: bridge
+services:
+
+  doc_retriever_qdrant:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: doc_retriever_qdrant
+    environment:
+      - OPEN_AOI_KEY=<open_ai_key>
+      - USERNAME_APRA=<apra_website_username>
+      - PASSWORD=<apra_password_username>
+      - INTERVAL=20
+    ports: 
+      - 8502:8502
+    volumes: 
+      - ./app/PDFs:/app/PDFs
+    networks:
+      - net

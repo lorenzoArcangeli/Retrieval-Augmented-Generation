@@ -1,0 +1,6 @@
+qdrant-client
+langchain
+langchain-openai
+PyPDF2
+pdfplumber
+streamlit
